@@ -4,7 +4,7 @@
 Considering BMI (Body mass index) as a main variable, performed 
 sample survey in our hostel(Population), collected data mainly
 concern about the health of students, later on tabulated that data 
-in excel sheet and finally analyzed it with
+in excel sheet and finally analyzed it with R Language (statistical tool) and made conclusions based on our analysis.
 
 
 
