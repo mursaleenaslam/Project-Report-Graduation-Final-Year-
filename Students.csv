@@ -1,0 +1,129 @@
+Strata,S.No.,BMI,Age,F.O.,B.P.,Religion,Meal,Extra_diet,Aowater,Watquality,Smoke,Height,Weight,sleep_hrs,sleep_timing,Genetic_Sleep,Consume_T&C,Snoring,sleepinc,studyhrs,btofstudy,gadgetshrs,Headache,Sleep_prob,yearly_treatment,hhcndtn,x21,x22,Dust,x24,Participate_sport,Exercise,Gym
+U.G,1,22.5,21,3,3,2,2,2,2,RO/UV water,No,170-180,68.8,7-8 hours,11.00-12.00 PM,No,Oc,No,1,1.5,4,4-6hrs,Occassionaly,None,Never,2,2,2,Yes,1,Yes,Yes,30-60 min
+U.G,2,23.1,22,2,1,2,1,4,2,RO/UV water,No,160-170,63,6-7hours,11.00-12.00 PM,No,Oc,No,3,6,2,0-2hrs,Occassionaly,None,More then two times,2,4,3,Yes,3,No,Yes,30-60 min
+U.G,3,20.9,21,3,3,2,2,2,4,RO/UV water,No,160-170,57,8-10hours,11.00-12.00 PM,No,Oc,No,1,4,1,6-8hrs,Never,None,Never,2,4,3,Yes,2,No,Yes,30-60 min
+U.G,4,20.2,20,2,1,2,1,1,3,RO/UV water,No,160-170,55,7-8 hours,After 12.00 AM,No,Yes,No,1,6,3,2-4hrs,Occassionaly,Stress,One time,1,5,1,No,2,No,No,0-10 min
+U.G,5,22.8,24,1,3,2,2,2,3,RO/UV water,No,160-170,62,8-10hours,11.00-12.00 PM,No,Oc,No,1,6,1,2-4hrs,Occassionaly,None,Never,2,5,4,No,3,Yes,Yes,30-60 min
+U.G,6,22.4,21,2,3,2,1,2,3,Plain tap water,No,160-170,61,7-8 hours,11.00-12.00 PM,No,Yes,Yes,1,8.5,1,2-4hrs,Never,Stress,One time,1,2,2,No,3,Yes,Yes,30-60 min
+U.G,7,18.9,23,2,3,2,2,2,2,RO/UV water,No,170-180,58,7-8 hours,11.00-12.00 PM,No,Yes,No,1,6,1,2-4hrs,Frequently,Stress,Two times,2,5,3,Yes,5,Yes,No,30-60 min
+U.G,8,17.3,23,4,1,2,2,2,2,RO/UV water,No,170-180,53,7-8 hours,11.00-12.00 PM,No,Yes,No,1,8.5,2,0-2hrs,Occassionaly,Stress,One time,1,2,1,No,3,No,No,0-10 min
+U.G,9,21.6,22,4,1,2,2,1,3,RO/UV water,Oc,170-180,66,6-7hours,10.00-11.00 PM,No,Yes,No,5,1.5,1,0-2hrs,Never,None,More then two times,1,2,1,Yes,2,No,No,0-10 min
+U.G,10,20.2,23,3,1,2,4,3,3,RO/UV water,No,180-190,69,7-8 hours,10.00-11.00 PM,No,Yes,No,4,1.5,2,4-6hrs,Never,Depression/Anxiety,Two times,5,5,4,Yes,2,Yes,Yes,30-60 min
+U.G,11,23.8,22,4,2,2,1,1,1,Plain tap water,No,170-180,73,7-8 hours,11.00-12.00 PM,No,Oc,No,5,4,1,0-2hrs,Occassionaly,Depression/Anxiety,More then two times,1,2,1,Yes,1,No,No,10-30 min
+U.G,12,22.8,20,3,1,2,2,2,3,RO/UV water,No,160-170,62,6-7hours,After 12.00 AM,No,Oc,No,1,4,1,0-2hrs,Never,Depression/Anxiety,One time,1,5,3,No,3,No,No,10-30 min
+U.G,13,20.6,21,2,3,1,1,2,2,RO/UV water,No,160-170,56,8-10hours,11.00-12.00 PM,No,Yes,Yes,1,4,4,6-8hrs,Occassionaly,Depression/Anxiety,One time,2,5,2,Yes,3,Yes,No,30-60 min
+U.G,14,21.2,23,2,1,2,1,2,3,Bottled water,No,170-180,65,7-8 hours,11.00-12.00 PM,No,No,No,1,6,1,2-4hrs,Never,None,Never,2,2,2,No,3,No,Yes,10-30 min
+U.G,15,22.9,19,1,1,2,1,1,3,RO/UV water,No,150-160,55,6-7hours,11.00-12.00 PM,No,Oc,No,1,6,2,2-4hrs,Occassionaly,Depression/Anxiety,One time,2,5,2,Yes,3,No,No,0-10 min
+U.G,16,28.3,19,4,2,2,2,1,1,Plain tap water,Yes,150-160,68,4-6hours,11.00-12.00 PM,No,Yes,Yes,4,1.5,4,8-10hrs,Occassionaly,Depression/Anxiety,Never,1,4,1,Yes,3,Yes,Yes,30-60 min
+U.G,17,15.5,17,1,1,1,2,2,2,RO/UV water,No,180-190,53,7-8 hours,11.00-12.00 PM,No,Oc,No,1,6,4,0-2hrs,Occassionaly,Stress,One time,2,4,3,Yes,3,Yes,Yes,30-60 min
+U.G,18,NA,22,3,1,2,2,2,2,RO/UV water,No,NA,NA,7-8 hours,NA,No,Yes,No,1,NA,1,NA,Occassionaly,Stress,One time,2,5,1,Yes,3,Yes,No,NA
+U.G,19,23.1,20,NA,4,2,2,2,4,RO/UV water,No,180-190,79,7-8 hours,11.00-12.00 PM,No,Oc,No,4,6,2,2-4hrs,Occassionaly,None,One time,1,5,1,Yes,2,Yes,No,30-60 min
+U.G,20,20.4,22,1,1,2,2,2,1,RO/UV water,No,150-160,49,6-7hours,11.00-12.00 PM,No,Yes,No,4,6,1,2-4hrs,Occassionaly,Migraine,One time,1,4,2,Yes,1,No,Yes,10-30 min
+U.G,21,22.2,22,NA,NA,NA,2,2,3,RO/UV water,No,170-180,68,7-8 hours,11.00-12.00 PM,No,Yes,No,5,6,4,2-4hrs,Occassionaly,Stress,Never,2,5,3,No,5,Yes,No,0-10 min
+U.G,22,24.8,22,2,2,2,2,1,3,Plain tap water,Yes,170-180,76,7-8 hours,11.00-12.00 PM,No,Yes,No,1,1.5,1,4-6hrs,Occassionaly,Stress,One time,1,1,2,Yes,2,Yes,No,0-10 min
+U.G,23,19.6,20,4,2,2,2,2,3,Bottled water,No,170-180,60,7-8 hours,11.00-12.00 PM,No,Oc,No,2,4,3,4-6hrs,NA,None,More then two times,2,2,2,Yes,2,Yes,Yes,10-30 min
+U.G,24,25,20,3,3,2,2,2,2,RO/UV water,No,150-160,60,7-8 hours,11.00-12.00 PM,No,Oc,No,4,4,3,4-6hrs,Occassionaly,None,One time,1,5,1,Yes,2,Yes,No,30-60 min
+U.G,25,23.9,21,2,2,2,1,2,4,RO/UV water,Oc,160-170,65,6-7hours,11.00-12.00 PM,No,Yes,No,5,4,3,2-4hrs,Occassionaly,Depression/Anxiety,One time,5,3,2,No,4,Yes,Yes,30-60 min
+U.G,26,20.6,21,3,1,2,1,3,4,RO/UV water,No,160-170,56,7-8 hours,11.00-12.00 PM,No,Yes,No,4,1.5,1,8-10hrs,Never,None,One time,2,4,2,Yes,5,Yes,No,10-30 min
+U.G,27,19.8,20,1,1,2,2,2,4,RO/UV water,No,160-170,54,7-8 hours,11.00-12.00 PM,No,Yes,No,4,4,3,2-4hrs,Occassionaly,None,One time,1,5,1,Yes,2,Yes,No,10-30 min
+U.G,28,21.6,22,3,3,2,1,1,4,Bottled water,Oc,170-180,66,7-8 hours,11.00-12.00 PM,No,Yes,No,5,6,3,4-6hrs,Occassionaly,None,Never,2,1,1,Yes,5,Yes,Yes,30-60 min
+U.G,29,24.8,23,2,1,2,2,1,2,RO/UV water,Yes,170-180,76,8-10hours,11.00-12.00 PM,No,Yes,No,5,8.5,1,2-4hrs,Frequently,Stress,Never,5,5,2,Yes,3,Yes,No,0-10 min
+U.G,30,22.8,NA,NA,NA,NA,2,3,4,RO/UV water,Yes,160-170,62,7-8 hours,11.00-12.00 PM,No,Yes,No,1,4,4,4-6hrs,Occassionaly,None,Never,5,4,3,Yes,3,Yes,Yes,10-30 min
+U.G,31,19.3,24,3,3,2,2,2,4,RO/UV water,No,170-180,59.2,7-8 hours,After 12.00 AM,No,Yes,No,5,1.5,4,2-4hrs,Occassionaly,Stress,Two times,2,4,2,Yes,5,Yes,Yes,30-60 min
+U.G,32,22.2,22,2,3,2,2,1,3,RO/UV water,Oc,170-180,68,7-8 hours,After 12.00 AM,No,Yes,No,1,6,4,4-6hrs,Frequently,Migraine,One time,1,5,1,No,3,Yes,No,30-60 min
+U.G,33,16.5,18,4,2,2,1,2,2,RO/UV water,No,160-170,45,6-7hours,11.00-12.00 PM,No,No,No,1,6,1,2-4hrs,Never,None,Never,5,5,4,No,4,Yes,Yes,10-30 min
+U.G,34,24.5,24,3,3,2,2,2,4,RO/UV water,No,170-180,75,7-8 hours,After 12.00 AM,No,Oc,Yes,1,4,1,0-2hrs,Frequently,None,Never,1,2,1,Yes,4,No,No,0-10 min
+U.G,35,23.9,22,2,3,2,2,1,4,RO/UV water,No,160-170,65,6-7hours,After 12.00 AM,No,Oc,No,1,4,1,4-6hrs,Never,None,Never,1,2,2,No,3,Yes,No,10-30 min
+U.G,36,22.8,24,2,1,2,2,2,3,RO/UV water,No,160-170,62,8-10hours,11.00-12.00 PM,No,Yes,No,1,1.5,1,6-8hrs,Occassionaly,Depression/Anxiety,More then two times,2,5,1,Yes,3,Yes,No,10-30 min
+U.G,37,23.3,22,4,3,2,2,2,4,RO/UV water,No,140-150,49,6-7hours,After 12.00 AM,No,Yes,No,5,4,3,0-2hrs,Occassionaly,None,More then two times,5,4,3,Yes,4,No,Yes,10-30 min
+U.G,38,23.4,21,2,3,2,2,2,4,RO/UV water,Yes,180-190,80,8-10hours,11.00-12.00 PM,No,Oc,No,2,1.5,1,2-4hrs,Never,None,Never,2,2,2,Yes,4,Yes,Yes,30-60 min
+U.G,39,32.3,18,3,3,2,1,2,4,RO/UV water,No,160-170,88,7-8 hours,11.00-12.00 PM,No,No,No,1,6,4,2-4hrs,Occassionaly,None,One time,3,5,3,Yes,3,No,No,0-10 min
+U.G,40,20.5,20,2,2,2,2,1,2,Plain tap water,No,180-190,70,6-7hours,After 12.00 AM,No,Yes,No,4,1.5,4,2-4hrs,Occassionaly,Stress,One time,3,4,3,Yes,3,Yes,Yes,30-60 min
+U.G,41,25.7,21,1,1,2,1,1,3,RO/UV water,Oc,160-170,70,8-10hours,11.00-12.00 PM,No,Yes,No,4,1.5,4,2-4hrs,Occassionaly,Stress,One time,2,4,4,No,3,No,No,0-10 min
+U.G,42,20.2,20,4,2,1,2,2,2,RO/UV water,No,160-170,55,7-8 hours,11.00-12.00 PM,No,Oc,No,NA,4,1,0-2hrs,Occassionaly,Stress,Never,2,2,4,No,3,No,Yes,10-30 min
+U.G,43,22.8,20,2,3,2,2,2,4,RO/UV water,No,160-170,62,7-8 hours,After 12.00 AM,No,Oc,No,1,4,4,2-4hrs,Frequently,Depression/Anxiety,Never,3,2,3,Yes,2,Yes,No,30-60 min
+U.G,44,22,20,4,3,2,1,2,3,RO/UV water,No,160-170,60,6-7hours,11.00-12.00 PM,No,No,No,1,6,2,0-2hrs,Never,None,One time,2,2,3,No,3,Yes,Yes,10-30 min
+U.G,45,21.9,21,1,2,2,1,NA,3,RO/UV water,No,180-190,58,6-7hours,11.00-12.00 PM,No,Yes,No,5,4,1,2-4hrs,Occassionaly,Stress,One time,5,2,4,No,3,No,No,0-10 min
+U.G,46,19.8,20,1,3,2,2,1,3,RO/UV water,No,160-170,60,6-7hours,11.00-12.00 PM,No,No,No,2,4,1,4-6hrs,Never,None,Never,3,5,3,Yes,3,Yes,Yes,30-60 min
+U.G,47,20.2,21,1,1,2,2,4,4,Plain tap water,No,140-150,60,7-8 hours,11.00-12.00 PM,No,Yes,No,1,4,1,4-6hrs,Occassionaly,Depression/Anxiety,Never,1,5,2,No,1,Yes,No,10-30 min
+U.G,48,21.3,20,2,2,2,1,1,3,Bottled water,No,170-180,67,6-7hours,11.00-12.00 PM,No,Yes,No,2,4,3,2-4hrs,Occassionaly,Stress,One time,5,4,3,No,4,No,No,10-30 min
+U.G,49,28.5,20,2,2,2,1,1,2,Plain tap water,No,170-180,64,7-8 hours,11.00-12.00 PM,No,Yes,No,5,1.5,4,0-2hrs,Never,None,One time,2,5,3,No,3,No,No,0-10 min
+U.G,50,29.4,20,1,1,2,2,3,2,RO/UV water,No,160-170,56,6-7hours,11.00-12.00 PM,No,Yes,Yes,1,4,1,0-2hrs,Occassionaly,Stress,Never,2,2,2,No,3,No,No,10-30 min
+U.G,51,16.9,23,3,3,2,2,2,3,RO/UV water,No,150-160,65,7-8 hours,After 12.00 AM,No,Yes,No,NA,1.5,1,2-4hrs,Never,Stress,One time,5,4,3,Yes,3,No,No,30-60 min
+U.G,52,22,21,1,1,1,3,1,2,Plain tap water,No,170-180,90,7-8 hours,11.00-12.00 PM,No,Oc,No,1,4,4,4-6hrs,Occassionaly,Depression/Anxiety,Never,2,4,2,No,3,No,Yes,10-30 min
+U.G,53,28.5,22,1,1,2,1,4,4,Plain tap water,Yes,140-150,60,8-10hours,11.00-12.00 PM,No,Oc,No,1,1.5,4,6-8hrs,Never,Stress,Two times,1,5,1,Yes,3,No,No,0-10 min
+U.G,54,21.9,20,2,2,2,2,2,3,RO/UV water,Oc,160-170,58,7-8 hours,11.00-12.00 PM,No,Yes,No,4,1.5,4,4-6hrs,Occassionaly,Depression/Anxiety,Never,2,5,3,No,3,Yes,Yes,30-60 min
+U.G,55,20.9,19,4,1,2,1,4,4,Plain tap water,No,170-180,62,7-8 hours,After 12.00 AM,No,Oc,No,1,1.5,2,4-6hrs,Occassionaly,Stress,Never,5,5,3,Yes,3,Yes,No,0-10 min
+U.G,56,20.6,19,3,2,2,2,2,4,RO/UV water,No,160-170,54,4-6hours,11.00-12.00 PM,No,Oc,No,1,8.5,1,0-2hrs,Occassionaly,None,Never,3,1,2,No,2,No,No,0-10 min
+U.G,57,27.1,22,4,3,2,2,2,4,Plain tap water,Yes,170-180,67,7-8 hours,After 12.00 AM,No,Yes,No,1,1.5,1,4-6hrs,Occassionaly,Stress,One time,2,2,1,Yes,5,No,Yes,0-10 min
+U.G,58,28.5,21,3,2,2,2,1,4,Bottled water,Yes,140-150,60,7-8 hours,10.00-11.00 PM,No,Oc,Yes,4,4,2,2-4hrs,Never,Migraine,Two times,1,1,2,No,4,Yes,No,30-60 min
+U.G,59,18.1,22,2,3,2,2,2,4,Bottled water,No,180-190,62,6-7hours,11.00-12.00 PM,No,Oc,Yes,4,4,3,0-2hrs,Never,Depression/Anxiety,More then two times,4,1,2,No,3,Yes,No,30-60 min
+P.G,1,22.8,22,1,1,2,2,2,2,Plain tap water,No,160-170,62,7-8 hours,11.00-12.00 PM,No,Oc,No,4,4,1,0-2hrs,Occassionaly,None,Never,5,5,3,Yes,2,Yes,Yes,30-60 min
+P.G,2,20.2,25,4,3,2,2,2,4,RO/UV water,No,160-170,55,7-8 hours,11.00-12.00 PM,No,Yes,No,1,1.5,3,4-6hrs,Occassionaly,Stress,Never,1,3,1,No,2,Yes,Yes,30-60 min
+P.G,3,23.5,23,2,3,2,2,1,2,RO/UV water,Oc,160-170,64,6-7hours,11.00-12.00 PM,No,Oc,No,2,6,1,4-6hrs,Occassionaly,Depression/Anxiety,Never,3,4,3,Yes,3,No,No,0-10 min
+P.G,4,21.2,23,4,3,1,2,1,1,RO/UV water,No,170-180,65,8-10hours,11.00-12.00 PM,No,Yes,No,2,4,1,2-4hrs,Never,None,Two times,1,2,1,Yes,3,Yes,No,30-60 min
+P.G,5,18.9,23,2,3,2,1,4,3,RO/UV water,No,170-180,58,7-8 hours,11.00-12.00 PM,No,Yes,No,2,4,3,4-6hrs,Occassionaly,None,One time,1,5,1,Yes,5,No,No,0-10 min
+P.G,6,21.2,22,3,1,2,2,2,3,RO/UV water,No,170-180,65,6-7hours,11.00-12.00 PM,No,Oc,No,1,1.5,1,2-4hrs,Occassionaly,Depression/Anxiety,Two times,1,5,2,Yes,3,No,No,0-10 min
+P.G,7,24.2,22,4,3,2,2,1,3,RO/UV water,No,160-170,66,7-8 hours,11.00-12.00 PM,No,Yes,No,4,4,3,0-2hrs,Occassionaly,Stress,One time,1,5,2,No,5,No,Yes,0-10 min
+P.G,8,22.8,22,2,2,2,2,2,3,RO/UV water,No,160-170,62,7-8 hours,11.00-12.00 PM,No,Yes,No,1,4,2,2-4hrs,Occassionaly,None,One time,2,5,1,No,1,Yes,No,10-30 min
+P.G,9,22.8,22,2,2,2,2,2,3,RO/UV water,No,160-170,62,7-8 hours,11.00-12.00 PM,No,Yes,No,1,4,2,2-4hrs,Occassionaly,None,One time,2,5,1,No,1,Yes,No,10-30 min
+P.G,10,21.9,23,2,3,2,1,3,2,RO/UV water,No,170-180,67,6-7hours,11.00-12.00 PM,No,Yes,No,1,4,4,2-4hrs,Occassionaly,Stress,Never,1,1,1,Yes,1,No,No,0-10 min
+P.G,11,22.3,22,4,2,2,2,2,2,RO/UV water,No,160-170,61,6-7hours,11.00-12.00 PM,No,Oc,No,4,8.5,1,8-10hrs,Occassionaly,None,One time,5,5,4,Yes,3,Yes,Yes,10-30 min
+P.G,12,32,26,1,1,2,2,1,2,RO/UV water,Oc,150-160,77,6-7hours,11.00-12.00 PM,Yes,Yes,Yes,1,1.5,1,6-8hrs,Frequently,Depression/Anxiety,More then two times,1,2,2,Yes,4,No,Yes,10-30 min
+P.G,13,25,21,2,2,2,2,2,3,Plain tap water,No,150-160,60,4-6hours,11.00-12.00 PM,No,Yes,No,1,4,4,0-2hrs,Frequently,Migraine,Never,1,3,2,NA,3,Yes,No,10-30 min
+P.G,14,22,24,3,3,1,3,2,3,RO/UV water,No,160-170,60,6-7hours,11.00-12.00 PM,No,Yes,No,1,4,4,2-4hrs,Occassionaly,Stress,One time,1,4,2,Yes,3,Yes,No,10-30 min
+P.G,15,25,27,1,2,2,1,4,3,Bottled water,Yes,160-170,68,7-8 hours,11.00-12.00 PM,No,Yes,No,5,4,1,4-6hrs,Occassionaly,Depression/Anxiety,Never,2,1,2,No,5,No,No,0-10 min
+P.G,16,25.4,22,NA,1,2,2,2,3,RO/UV water,No,150-160,61,6-7hours,11.00-12.00 PM,No,No,No,1,4,1,0-2hrs,Never,Stress,Never,5,5,3,No,3,Yes,Yes,30-60 min
+P.G,17,NA,21,2,2,2,2,3,2,RO/UV water,No,170-180,NA,6-7hours,11.00-12.00 PM,No,Oc,No,3,8.5,1,0-2hrs,Occassionaly,None,Never,3,3,3,Yes,3,No,Yes,30-60 min
+P.G,18,20.6,22,1,1,1,1,2,3,Plain tap water,No,170-180,63,7-8 hours,11.00-12.00 PM,No,No,Yes,1,6,3,8-10hrs,Occassionaly,Depression/Anxiety,Two times,2,3,2,No,5,Yes,No,10-30 min
+P.G,19,22.9,22,2,3,2,2,3,2,RO/UV water,No,170-180,70,6-7hours,11.00-12.00 PM,No,Yes,No,1,4,3,4-6hrs,Occassionaly,Stress,One time,2,5,2,Yes,2,Yes,Yes,10-30 min
+P.G,20,22.8,24,2,2,2,2,2,3,RO/UV water,No,160-170,62,6-7hours,11.00-12.00 PM,No,Oc,No,2,1.5,4,2-4hrs,Occassionaly,None,One time,5,5,4,Yes,5,Yes,Yes,10-30 min
+P.G,21,25.3,24,4,2,2,1,2,2,RO/UV water,No,160-170,69,6-7hours,11.00-12.00 PM,No,Yes,No,"1,4",1.5,3,8-10hrs,Never,Depression/Anxiety,Never,1,5,2,Yes,3,No,Yes,30-60 min
+P.G,22,23.7,24,2,1,2,2,1,3,RO/UV water,No,150-160,57,7-8 hours,11.00-12.00 PM,No,Yes,No,1,1.5,3,2-4hrs,Never,Stress,Never,2,5,1,Yes,3,Yes,No,0-10 min
+P.G,23,NA,19,4,3,2,2,1,2,RO/UV water,Yes,NA,65,6-7hours,After 12.00 AM,No,Yes,No,NA,8.5,1,4-6hrs,Frequently,Depression/Anxiety,More then two times,3,1,2,No,3,No,Yes,10-30 min
+P.G,24,20.2,18,3,2,2,2,2,3,RO/UV water,No,160-170,55,7-8 hours,11.00-12.00 PM,No,Oc,No,2,4,4,0-2hrs,Never,None,More then two times,3,4,4,Yes,3,Yes,Yes,30-60 min
+P.G,25,24.5,26,2,2,2,2,2,4,RO/UV water,Oc,170-180,75,7-8 hours,After 12.00 AM,No,Yes,No,1,6,4,4-6hrs,Occassionaly,None,Never,2,1,2,Yes,4,No,Yes,10-30 min
+P.G,26,25.8,21,4,3,2,1,2,4,RO/UV water,No,150-160,62,6-7hours,11.00-12.00 PM,No,No,No,1,8.5,1,4-6hrs,Occassionaly,None,More then two times,5,5,NA,Yes,5,No,No,0-10 min
+P.G,27,20.9,25,2,1,2,3,2,3,RO/UV water,Yes,160-170,57,7-8 hours,11.00-12.00 PM,No,Yes,No,NA,1.5,1,4-6hrs,Occassionaly,None,More then two times,3,2,NA,No,3,Yes,No,10-30 min
+P.G,28,29,22,2,1,2,2,3,2,RO/UV water,No,160-170,70,6-7hours,11.00-12.00 PM,No,Yes,No,1,6,1,2-4hrs,Occassionaly,None,Never,3,5,2,No,3,No,No,0-10 min
+P.G,29,27.2,25,2,1,2,2,2,3,RO/UV water,No,160-170,74,7-8 hours,11.00-12.00 PM,No,Yes,No,1,6,1,2-4hrs,Occassionaly,Stress,More then two times,3,3,2,Yes,3,No,No,10-30 min
+P.G,30,22.2,24,2,3,2,2,3,4,Plain tap water,Yes,170-180,69,NA,11.00-12.00 PM,No,Yes,No,1,6,3,4-6hrs,Occassionaly,Depression/Anxiety,One time,2,1,1,No,3,Yes,Yes,30-60 min
+P.G,31,23.2,22,2,3,2,2,2,3,RO/UV water,Yes,150-160,57,6-7hours,11.00-12.00 PM,No,Oc,No,1,8.5,1,2-4hrs,Occassionaly,Stress,Never,5,5,4,Yes,5,No,Yes,10-30 min
+P.G,32,22.9,22,1,1,2,1,2,3,RO/UV water,Yes,150-160,55,6-7hours,11.00-12.00 PM,No,Oc,No,1,6,1,0-2hrs,Occassionaly,Stress,One time,3,5,3,Yes,1,Yes,No,10-30 min
+P.G,33,20.9,21,2,3,2,1,4,4,RO/UV water,Oc,180-190,70,7-8 hours,11.00-12.00 PM,No,Yes,No,5,1.5,1,4-6hrs,Never,None,Never,1,5,1,Yes,3,Yes,Yes,30-60 min
+P.G,34,NA,23,3,2,1,2,2,2,Plain tap water,No,160-170,NA,7-8 hours,11.00-12.00 PM,No,Oc,No,NA,4,2,2-4hrs,Occassionaly,Depression/Anxiety,One time,2,4,3,No,4,Yes,Yes,30-60 min
+P.G,35,22.5,23,2,3,2,1,1,4,Plain tap water,Oc,170-180,69,7-8 hours,After 12.00 AM,No,Oc,No,5,6,4,4-6hrs,Occassionaly,Stress,Never,1,1,2,No,5,No,No,0-10 min
+P.G,36,23.5,25,4,2,2,1,2,4,RO/UV water,Oc,170-180,72,8-10hours,After 12.00 AM,No,Yes,Yes,5,6,1,4-6hrs,Occassionaly,None,Never,1,1,1,Yes,5,Yes,Yes,10-30 min
+P.G,37,32.3,25,1,3,2,1,4,4,Plain tap water,Yes,140-150,68,8-10hours,After 12.00 AM,No,Yes,No,1,8.5,4,8-10hrs,Never,None,Two times,1,2,1,Yes,1,No,No,0-10 min
+P.G,38,25.7,24,2,3,2,1,4,3,Bottled water,No,160-170,70,4-6hours,11.00-12.00 PM,No,Oc,No,2,4,4,2-4hrs,Never,None,Never,2,5,2,No,2,Yes,Yes,30-60 min
+P.G,39,23.9,21,1,1,2,1,1,3,Plain tap water,No,160-170,65,6-7hours,After 12.00 AM,No,Yes,No,1,4,3,0-2hrs,Frequently,Stress,One time,2,2,2,Yes,3,Yes,No,0-10 min
+P.G,40,18.6,21,2,2,1,2,2,3,Plain tap water,No,170-180,57,6-7hours,11.00-12.00 PM,No,Yes,No,4,4,1,2-4hrs,Never,Depression/Anxiety,Never,3,5,3,No,5,No,No,10-30 min
+P.G,41,22.9,24,3,3,2,2,3,4,RO/UV water,Oc,170-180,70,6-7hours,After 12.00 AM,No,Oc,No,4,6,1,0-2hrs,Never,Depression/Anxiety,Never,1,2,1,No,3,Yes,Yes,30-60 min
+Ph.D,1,20.2,25,3,1,2,2,2,2,RO/UV water,No,160-170,55,7-8 hours,11.00-12.00 PM,No,Yes,No,1,1.5,1,2-4hrs,Occassionaly,Stress,Two times,1,4,1,Yes,1,Yes,No,10-30 min
+Ph.D,2,23.8,26,3,2,2,2,1,4,RO/UV water,Yes,170-180,73,4-6hours,11.00-12.00 PM,No,Yes,No,5,1.5,4,4-6hrs,Never,None,Two times,2,1,2,Yes,3,Yes,Yes,30-60 min
+Ph.D,3,25,30,2,2,2,1,4,1,RO/UV water,Yes,160-170,68,6-7hours,After 12.00 AM,No,No,No,4,4,1,0-2hrs,Frequently,Stress,Never,5,5,3,No,5,No,No,0-10 min
+Ph.D,4,21.9,25,2,2,2,2,2,2,RO/UV water,No,170-180,67,7-8 hours,11.00-12.00 PM,No,Oc,No,1,4,1,0-2hrs,Occassionaly,Stress,More then two times,1,4,1,Yes,1,No,No,10-30 min
+Ph.D,5,23.9,26,2,2,2,2,1,3,Bottled water,No,160-170,65,6-7hours,11.00-12.00 PM,No,Yes,No,1,6,1,2-4hrs,Frequently,Stress,More then two times,5,5,4,Yes,3,Yes,Yes,10-30 min
+Ph.D,6,21.2,27,2,3,2,2,2,4,RO/UV water,Oc,170-180,65,7-8 hours,After 12.00 AM,No,Yes,No,1,4,1,4-6hrs,Never,None,Never,1,1,2,Yes,2,No,No,0-10 min
+Ph.D,7,22.2,21,2,2,1,1,2,3,Plain tap water,Oc,160-170,62,6-7hours,9.00-10.00 AM,No,NA,No,3,1.5,2,2-4hrs,Frequently,None,Two times,4,1,2,Yes,3,Yes,Yes,10-30 min
+Ph.D,8,22.9,27,2,3,2,2,2,1,RO/UV water,No,150-160,55,7-8 hours,After 12.00 AM,No,Yes,Yes,1,8.5,4,8-10hrs,Occassionaly,Stress,Never,5,5,2,No,3,Yes,Yes,30-60 min
+Ph.D,9,19,NA,NA,NA,NA,2,2,2,RO/UV water,No,180-190,65,7-8 hours,11.00-12.00 PM,No,Yes,No,1,8.5,3,4-6hrs,Occassionaly,Depression/Anxiety,Two times,1,2,2,Yes,2,No,Yes,30-60 min
+Ph.D,10,25,23,3,1,2,2,1,2,RO/UV water,No,160-170,68,7-8 hours,After 12.00 AM,No,Yes,No,1,6,1,4-6hrs,Frequently,Stress,One time,1,3,1,No,3,Yes,No,30-60 min
+Ph.D,11,25,26,NA,3,2,2,2,3,Plain tap water,No,150-160,60,6-7hours,11.00-12.00 PM,No,Yes,No,1,8.5,1,0-2hrs,Occassionaly,None,More then two times,5,5,3,No,3,No,No,10-30 min
+Ph.D,12,21.9,26,2,2,2,1,1,3,RO/UV water,Yes,170-180,67,7-8 hours,11.00-12.00 PM,No,Yes,No,2,8.5,3,0-2hrs,Occassionaly,Migraine,More then two times,1,5,2,Yes,3,No,No,10-30 min
+Ph.D,13,27.8,28,3,1,2,2,2,4,Plain tap water,No,170-180,85,6-7hours,10.00-11.00 PM,No,Oc,No,4,8.5,1,0-2hrs,NA,None,Never,2,5,NA,No,3,Yes,No,30-60 min
+Ph.D,14,20.8,28,4,1,2,4,2,NA,Plain tap water,No,150-160,50,7-8 hours,After 12.00 AM,No,Oc,No,5,6,1,0-2hrs,Frequently,Stress,Two times,5,4,3,Yes,4,No,Yes,10-30 min
+Ph.D,15,24.5,22,3,3,2,2,1,4,RO/UV water,No,170-180,75,7-8 hours,11.00-12.00 PM,No,Yes,Yes,1,1.5,1,8-10hrs,Occassionaly,Depression/Anxiety,Never,2,4,3,Yes,5,Yes,No,0-10 min
+Ph.D,16,18.9,22,4,1,2,2,1,3,Bottled water,No,170-180,58,8-10hours,11.00-12.00 PM,No,Yes,No,1,4,3,2-4hrs,Occassionaly,Stress,Never,2,2,2,No,3,No,No,30-60 min
+Ph.D,17,27.2,27,2,2,2,2,1,3,RO/UV water,Yes,160-170,74,7-8 hours,11.00-12.00 PM,No,Yes,No,2,6,1,2-4hrs,Occassionaly,Depression/Anxiety,Two times,2,1,1,Yes,3,No,Yes,10-30 min
+Ph.D,18,23.4,30,1,1,2,2,1,4,Plain tap water,Yes,180-190,80,6-7hours,After 12.00 AM,Yes,Yes,No,1,8.5,2,6-8hrs,Occassionaly,Depression/Anxiety,More then two times,2,5,3,No,1,No,Yes,10-30 min
+Ph.D,19,26.6,30,1,1,1,3,4,1,Plain tap water,No,150-160,64,8-10hours,11.00-12.00 PM,No,Yes,No,1,1.5,2,2-4hrs,Never,None,Never,3,5,1,Yes,2,No,No,0-10 min
+Ph.D,20,25,28,3,2,2,2,2,4,RO/UV water,No,160-170,68,6-7hours,11.00-12.00 PM,No,Yes,No,5,4,1,4-6hrs,Occassionaly,None,Never,1,1,1,Yes,3,Yes,Yes,30-60 min
+Ph.D,21,22.2,26,1,1,1,2,2,4,Plain tap water,No,160-170,68,7-8 hours,11.00-12.00 PM,No,Yes,No,1,4,1,2-4hrs,Occassionaly,Stress,One time,5,4,3,No,3,No,Yes,30-60 min
+Ph.D,22,26.4,29,2,2,2,1,3,2,RO/UV water,No,160-170,72,7-8 hours,11.00-12.00 PM,No,Oc,No,1,8.5,1,2-4hrs,Occassionaly,Depression/Anxiety,More then two times,2,5,1,Yes,3,No,Yes,30-60 min
+Ph.D,23,25.8,NA,3,1,1,2,NA,2,RO/UV water,No,170-180,79,7-8 hours,10.00-11.00 PM,No,Yes,No,1,1.5,1,0-2hrs,Occassionaly,Stress,One time,2,2,2,No,3,Yes,Yes,30-60 min
+Ph.D,24,28.7,27,4,3,1,1,4,2,RO/UV water,Yes,160-170,78,6-7hours,After 12.00 AM,Yes,Oc,Yes,4,6,4,2-4hrs,Occassionaly,Depression/Anxiety,Two times,2,5,2,No,3,No,No,10-30 min
+Ph.D,25,21.6,24,3,1,2,2,2,3,RO/UV water,No,170-180,66,NA,11.00-12.00 PM,No,Yes,No,2,4,4,4-6hrs,Occassionaly,None,One time,1,5,3,Yes,5,No,No,30-60 min
+Ph.D,26,24.6,23,NA,2,2,2,4,1,RO/UV water,Oc,160-170,67,7-8 hours,11.00-12.00 PM,No,Yes,No,1,1.5,3,2-4hrs,Never,None,Never,5,5,3,No,3,No,No,0-10 min
+Ph.D,27,21.3,24,3,4,1,4,3,4,RO/UV water,No,180-190,73,4-6hours,11.00-12.00 PM,No,Oc,No,4,4,1,2-4hrs,Occassionaly,None,One time,3,2,3,Yes,5,Yes,No,10-30 min
+Ph.D,28,23.5,25,2,2,2,2,2,1,RO/UV water,Oc,160-170,64,4-6hours,10.00-11.00 PM,No,No,No,4,4,1,8-10hrs,Never,Migraine,Two times,3,1,2,No,4,Yes,No,0-10 min
