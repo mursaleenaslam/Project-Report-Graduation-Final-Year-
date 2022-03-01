@@ -9,6 +9,7 @@ in excel sheet and finally analyzed it with
 
 
 ## Project Collaborators
+This project was completed and submitted successfully under the supervision of @Professor Qazi Mazhar Ali during my graduation(B.Sc(Hons) in Statistics) in the year 2019 with my 7 colleagues:
 
 Mohd Danish
 
